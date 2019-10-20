@@ -1,0 +1,4 @@
+c:\users\sl-00\documents\visual studio 2010\Projects\PracticeWeb\PracticeWeb\bin\PracticeWeb.dll
+c:\users\sl-00\documents\visual studio 2010\Projects\PracticeWeb\PracticeWeb\bin\PracticeWeb.pdb
+c:\users\sl-00\documents\visual studio 2010\Projects\PracticeWeb\PracticeWeb\obj\Debug\PracticeWeb.dll
+c:\users\sl-00\documents\visual studio 2010\Projects\PracticeWeb\PracticeWeb\obj\Debug\PracticeWeb.pdb
